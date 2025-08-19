@@ -1,16 +1,23 @@
-## Hi there 👋
+# 👋 Hi, I’m Jiken Patel  
 
-<!--
-**Jiken-Patel/Jiken-Patel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## 🌟 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🎓 pursuing **Bachelor of Computer Applications (BCA)** at *Sardar Vallabhbhai Global University*.
+- 🔎 Currently learning **Node.js + Express + Sequelize**
+- 🗄️ Exploring **Database Administration (DBA)** concepts & projects
+
+## 📌 Goals
+- ✅ Build strong foundations in **databases & backend development**
+- ✅ Create practical, **production-ready projects**
+- ✅ Master **SQL, Node.js, and DB administration**
+
+## 🛠️ Tech (Learning & Using)
+- **Languages:** JavaScript, SQL  
+- **Frameworks & Tools:** Node.js, Express, Sequelize  
+- **Databases:** MySQL
+- 
+## 📫 How to reach me
+- 💼 [LinkedIn](#) *(www.linkedin.com/in/jiken-patel-b6b3432a4)*  
+- 🐙 [GitHub](#) *(https://github.com/Jiken-Patel)*  
+- ✉️ Email: *(jikenpatel416@gmail.com)*  
