@@ -18,6 +18,6 @@
 - **Databases:** MySQL
   
 ## 📫 How to reach me
-- 💼 Linkedin : [Jiken Patel](https://www.linkedin.com/in/your-username)  
-- 🐙 Github : [Jiken Patel](https://github.com/your-username)  
-- ✉️ Email : [Jiken Patel](mailto:yourname@example.com)  
+- 💼 Linkedin : [Jiken Patel](www.linkedin.com/in/jiken-patel-b6b3432a4)  
+- 🐙 Github : [Jiken Patel](https://github.com/Jiken-Patel)  
+- ✉️ Email : [Jiken Patel](jikenpatel416@gmail.com)  
