@@ -4,7 +4,7 @@
 ## 🌟 About Me
 
 - 🎓 pursuing **Bachelor of Computer Applications (BCA)** at *Sardar Vallabhbhai Global University*.
-- 🔎 Currently learning **Node.js + Express + Sequelize**
+- 🔎 Currently learning **Node.js + Express**
 - 🗄️ Exploring **Database Administration (DBA)** concepts & projects
 
 ## 📌 Goals
@@ -13,11 +13,11 @@
 - ✅ Master **SQL, Node.js, and DB administration**
 
 ## 🛠️ Tech (Learning & Using)
-- **Languages:** JavaScript, SQL  
-- **Frameworks & Tools:** Node.js, Express, Sequelize  
+- **Languages:** JavaScript, SQL , Python
+- **Frameworks & Tools:** Node.js, Express
 - **Databases:** MySQL
-- 
+  
 ## 📫 How to reach me
-- 💼 [LinkedIn](#) *(www.linkedin.com/in/jiken-patel-b6b3432a4)*  
-- 🐙 [GitHub](#) *(https://github.com/Jiken-Patel)*  
-- ✉️ Email: *(jikenpatel416@gmail.com)*  
+- 💼 Linkedin : [Jiken Patel](https://www.linkedin.com/in/your-username)  
+- 🐙 Github : [Jiken Patel](https://github.com/your-username)  
+- ✉️ Email : [Jiken Patel](mailto:yourname@example.com)  
