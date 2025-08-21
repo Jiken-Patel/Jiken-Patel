@@ -8,9 +8,9 @@
 - 🗄️ Exploring **Database Administration (DBA)** concepts & projects
 
 ## 📌 Goals
-- ✅ Build strong foundations in **databases & backend development**
-- ✅ Create practical, **production-ready projects**
-- ✅ Master **SQL, Node.js, and DB administration**
+-  Build strong foundations in **databases & backend development**
+-  Create practical, **production-ready projects**
+-  Master **SQL, Node.js, and DB administration**
 
 ## 🛠️ Tech (Learning & Using)
 - **Languages:** JavaScript, SQL , Python
